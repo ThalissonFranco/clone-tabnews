@@ -1,2 +1,1 @@
-# aprendiz-tabnews
-Ambiente para pratica de exercicios pro curso de dev =}
+implementação do https://www.tabnews.com.br/ para o curso https://curso.dev/
